@@ -1,0 +1,14 @@
+// A sample Modfile
+// More info at https://github.com/modulejs/modjs/
+
+module.exports = {
+    plugins: {
+        "ganam": "../index.js"
+    },
+    tasks: {
+        "ganam": {
+            src: "example",
+            dest: "out"
+        }
+    }
+};

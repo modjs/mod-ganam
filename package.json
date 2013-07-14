@@ -1,0 +1,36 @@
+{
+    "name": "mod-ganam",
+    "description": "A methodology for documenting CSS and generating styleguides.",
+    "version": "0.1.0",
+    "homepage": "https://github.com/modjs/ganam",
+    "author": {
+        "name": "yuanyan",
+        "url": "https://github.com/yuanyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/modjs/ganam.git"
+    },
+    "bugs": {
+        "url": "https://github.com/modjs/ganam/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/modjs/ganam/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bin": "",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "scripts": {
+        "test": ""
+    },
+    "dependencies": {
+        "ganam-cli": "~0.3.1"
+    },
+    "devDependencies": {
+    },
+    "keywords": []
+}
