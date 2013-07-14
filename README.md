@@ -13,8 +13,8 @@ module.exports = {
     },
     tasks: {
         "ganam": {
-            src: "",
-            dest: ""
+            src: "example",
+            dest: "out"
         }
     }
 };
